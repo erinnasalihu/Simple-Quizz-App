@@ -16,6 +16,7 @@ How to Run
 	3.	Open your terminal and navigate to the project directory.
 	4.	Run the program using the following command:
 
+```bash
 python main.py
 
 
